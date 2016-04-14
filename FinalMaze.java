@@ -297,7 +297,7 @@ public class FinalMaze
 					System.out.println("Decision Left");
 					break;
 				default:
-					System.out.println("Fuck up "+ i);
+					System.out.println("Mistake "+ i);
 			atFinish = true;
 			}
 		}
